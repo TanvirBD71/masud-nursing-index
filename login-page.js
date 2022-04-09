@@ -18,7 +18,7 @@ loginButton.addEventListener("click", (e) => {
         // If the credentials are valid, show an alert box and reload the page
         // alert("You have successfully logged in.");
         // location.reload();
-        location.href = "index2.html";
+        location.href = "index.html";
     } else {
         // Otherwise, make the login error message show (change its oppacity)
         // loginErrorMsg.style.opacity = 1;
